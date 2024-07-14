@@ -3,3 +3,4 @@
 [3, 'harmanpreet singh', 21, 'com']
 this line is deleted.
 [5, 'gurpreet singh ', 20, " 'com'"]
+[6, ' lakshjeet singh ', 21, 'it']
